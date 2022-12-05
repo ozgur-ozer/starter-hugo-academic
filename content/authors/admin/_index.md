@@ -30,7 +30,7 @@ interests:
   - Development policy
   - Higher education policy
   - International research collaborations and networks
-  - Scientometrics, science of science
+  - Scientometrics, science of science, bibliometrics
 
 
 # Education to show in About widget
