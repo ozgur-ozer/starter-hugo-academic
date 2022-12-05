@@ -3,7 +3,7 @@
 title: Özgür Kadir Özer
 
 # Full name (for SEO)
-first_name: Özgür Kadir
+first_name: Özgür K
 last_name: Özer
 
 # Status emoji
@@ -26,7 +26,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Science, technology, and innovation policy
+  - Science, technology and innovation policy
   - Development policy
   - Higher education policy
   - International research collaborations and networks
