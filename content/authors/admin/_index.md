@@ -83,5 +83,4 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Özgür is a Ph.D. candidate of science and technology policy studies at METU TEKPOL. His research interests include  science, technology and innovation policy, higher education policy, international research collaborations and networks, and scientometrics.
