@@ -12,6 +12,10 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
   - block: collection
     id: posts
     content:
