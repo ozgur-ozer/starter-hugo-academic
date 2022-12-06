@@ -69,6 +69,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ozgur-kadir-ozer-25b1a414/
+  - icon: mastodon
+    icon_pack: fab
+    link: https://mastodon.online/@ozgurkadir
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
